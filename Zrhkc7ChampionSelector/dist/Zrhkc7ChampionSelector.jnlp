@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Zrhkc7ChampionSelector.jnlp">
+  <information>
+    <title>Zrhkc7ChampionSelector</title>
+    <vendor>Zach-MacBook</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Zrhkc7ChampionSelector.jar" size="7051" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Zrhkc7ChampionSelector" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="zrhkc7championselector.Zrhkc7ChampionSelector"  name="Zrhkc7ChampionSelector" />
+  <update check="always"/>
+</jnlp>
